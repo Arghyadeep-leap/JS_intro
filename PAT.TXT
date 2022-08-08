@@ -1,1 +1,8 @@
 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
+
+
+
+git remote set-url origin https://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@github.com/Arghyadeep-leap/JS_intro.git
+
+  git config --global user.email "arghyadeep.dhar@clairvolex.com"
+  git config --global user.name "Arghyadeep-leap"
